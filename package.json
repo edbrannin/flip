@@ -16,6 +16,7 @@
     "react-dom": "^16.8.6"
   },
   "devDependencies": {
+    "eslint": "^5.16.0",
     "nwb": "0.23.x"
   },
   "author": "",
